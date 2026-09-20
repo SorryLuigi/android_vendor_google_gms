@@ -122,7 +122,6 @@ PRODUCT_PACKAGES += \
     FilesGoogle \
     GWP \
     AndroidPlatformServices \
-    GoogleDialer \
     GooglePartnerSetup \
     GoogleRestore \
     Messages \
